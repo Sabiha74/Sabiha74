@@ -210,23 +210,11 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sabiha74&show_icons=true&theme=default"
-    alt="GitHub Stats"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiha74&layout=compact&theme=default"
-    alt="Top Languages"
-  />
-
-</p>
+---
 
 <p align="center">
 
