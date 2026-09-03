@@ -109,28 +109,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiha74&layout=compact"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sabiha74&show_icons=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sabiha74"
-    alt="GitHub Streak"
-  />
-</p>
