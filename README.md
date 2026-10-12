@@ -12,12 +12,7 @@
   Aspiring Full-Stack Developer | React & JavaScript | Problem Solver
 </h3>
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=sabiha74&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+
 
 ---
 
